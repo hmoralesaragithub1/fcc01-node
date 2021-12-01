@@ -1,0 +1,21 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"author": "Herman Alberto Morales Ara",
+	"description":"My first awesome nodejs project",
+	"keywords": ["freecodecamp","nodejs","newbie","webserver"],
+	"license": "FreeBSD",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment":"2.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
+
